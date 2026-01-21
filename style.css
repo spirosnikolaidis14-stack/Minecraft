@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    background-color: bisque;
+}
+
+
+.paragraf{
+
+     color: black;
+     text-align: center;
+     
+
+}
+
+
+.requirements{
+
+   text-align: center;
+   justify-content: space-around;
+   
+
+}
+
+
+
+.images{
+
+   display: flex;
+   justify-content: center;
+    
+}
+
+
+.VIDEO{
+
+   
+}
